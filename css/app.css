@@ -16,6 +16,11 @@ body {
     font-family: "Sofia", cursive !important;
 }
 
+.font-esthetic-2 {
+    font-family: "Lobster Two", sans-serif !important;
+    font-style: italic;
+}
+
 .font-arabic {
     font-family: 'Noto Naskh Arabic', serif !important;
 }
