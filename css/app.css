@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    font-family: 'Josefin Sans', sans-serif !important;
+    font-family: "Kurale", serif !important;
     padding: 0 !important;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 .font-esthetic {
-    font-family: "Merienda", cursive !important;
+    font-family: "Sofia", cursive !important;
 }
 
 .font-arabic {
@@ -158,4 +158,11 @@ footer {
 
 .clear-background{
     background-image: none;
+}
+
+.custom-img{
+    height: 200;
+	width: 200px;
+    object-fit: contain;
+	object-position: center;
 }
